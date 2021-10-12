@@ -9,6 +9,7 @@ class Buttons extends React.Component {
     return (
       <IconSettings iconPath='/icons'>
         <div className='slds-x-small-buttons_horizontal'>
+          <h2>Buttons</h2>
           <Button
             label='Base'
             onClick={(e) => {
