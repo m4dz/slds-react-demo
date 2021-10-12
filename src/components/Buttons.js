@@ -1,10 +1,7 @@
 import React from 'react';
-
 import { Button, IconSettings } from '@salesforce/design-system-react/';
 
 class Buttons extends React.Component {
-  static displayName = 'ButtonExample';
-
   render() {
     return (
       <IconSettings iconPath='/icons'>
