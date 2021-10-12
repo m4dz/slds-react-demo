@@ -1,0 +1,5 @@
+{
+  "editor.tabSize": 2,
+  "prettier.vueIndentScriptAndStyle": true,
+  "prettier.singleQuote": true
+}
