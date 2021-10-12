@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/slds-react-demo/static/css/main.6bae96be.chunk.css",
+    "main.js": "/slds-react-demo/static/js/main.68a379b1.chunk.js",
+    "main.js.map": "/slds-react-demo/static/js/main.68a379b1.chunk.js.map",
+    "runtime-main.js": "/slds-react-demo/static/js/runtime-main.f13361d6.js",
+    "runtime-main.js.map": "/slds-react-demo/static/js/runtime-main.f13361d6.js.map",
+    "static/js/2.00900477.chunk.js": "/slds-react-demo/static/js/2.00900477.chunk.js",
+    "static/js/2.00900477.chunk.js.map": "/slds-react-demo/static/js/2.00900477.chunk.js.map",
+    "index.html": "/slds-react-demo/index.html",
+    "static/css/main.6bae96be.chunk.css.map": "/slds-react-demo/static/css/main.6bae96be.chunk.css.map",
+    "static/js/2.00900477.chunk.js.LICENSE.txt": "/slds-react-demo/static/js/2.00900477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13361d6.js",
+    "static/js/2.00900477.chunk.js",
+    "static/css/main.6bae96be.chunk.css",
+    "static/js/main.68a379b1.chunk.js"
+  ]
+}
